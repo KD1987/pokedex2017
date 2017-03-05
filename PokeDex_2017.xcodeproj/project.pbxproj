@@ -12,6 +12,7 @@
 		29DD88D71E6BC0CD006ECD48 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29DD88D51E6BC0CD006ECD48 /* Main.storyboard */; };
 		29DD88D91E6BC0CD006ECD48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29DD88D81E6BC0CD006ECD48 /* Assets.xcassets */; };
 		29DD88DC1E6BC0CD006ECD48 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29DD88DA1E6BC0CD006ECD48 /* LaunchScreen.storyboard */; };
+		29F8B29F1E6BD1A80068B303 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 29F8B29E1E6BD1A80068B303 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		29DD88D81E6BC0CD006ECD48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		29DD88DB1E6BC0CD006ECD48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		29DD88DD1E6BC0CD006ECD48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		29F8B29E1E6BD1A80068B303 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				29DD88D31E6BC0CD006ECD48 /* ViewController.swift */,
 				29DD88D51E6BC0CD006ECD48 /* Main.storyboard */,
 				29DD88D81E6BC0CD006ECD48 /* Assets.xcassets */,
+				29F8B29E1E6BD1A80068B303 /* pokemon.csv */,
 				29DD88DA1E6BC0CD006ECD48 /* LaunchScreen.storyboard */,
 				29DD88DD1E6BC0CD006ECD48 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				29DD88DC1E6BC0CD006ECD48 /* LaunchScreen.storyboard in Resources */,
 				29DD88D91E6BC0CD006ECD48 /* Assets.xcassets in Resources */,
+				29F8B29F1E6BD1A80068B303 /* pokemon.csv in Resources */,
 				29DD88D71E6BC0CD006ECD48 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -297,6 +301,7 @@
 				29DD88E21E6BC0CD006ECD48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
